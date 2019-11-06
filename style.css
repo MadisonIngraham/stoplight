@@ -5,6 +5,10 @@
   display: inline-block;
 }
 
+div {
+  transform: rotate(-90deg);
+}
+
 #red {
   background-color: red;
 }
