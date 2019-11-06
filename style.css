@@ -1,0 +1,18 @@
+.dot {
+  height: 145px;
+  width: 144px;
+  border-radius: 100%;
+  display: inline-block;
+}
+
+#red {
+  background-color: red;
+}
+
+#yellow {
+  background-color: yellow;
+}
+
+#green {
+  background-color: green;
+}
