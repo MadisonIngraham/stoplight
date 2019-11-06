@@ -5,6 +5,9 @@ body {
 div {
   background-color: #252323;
   width: 46%;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
 }
 
 .light {
