@@ -1,5 +1,7 @@
 body {
   background-color: black;
+  display: flex;
+  justify-content: center;
 }
 
 div {
@@ -22,12 +24,27 @@ div {
   margin-top: 1em;
 }
 
+#red:hover {
+  background-color: red;
+  box-shadow: 0 0 30px red;
+}
+
 #yellow {
   background-color: yellow;
   margin: 5%;
 }
 
+#yellow:hover {
+  background-color: yellow;
+  box-shadow: 0 0 30px yellow;
+}
+
 #green {
   background-color: green;
   margin-bottom: 1em;
+}
+
+#green:hover {
+  background-color: green;
+  box-shadow: 0 0 30px green;
 }
